@@ -1,0 +1,83 @@
+.my-custom-hero {
+    background-color: #4D908E;
+    height: 300px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-custom-hero-text {
+    color: #f49f0a;
+    text-shadow: 2px 2.5px 1px black;
+    font-weight: bold;
+    display: block;
+}
+
+.my-custom-hero-text h3 {
+    text-shadow: 1.5px 1.25px 1px black;
+}
+
+.my-custom-hero-text h3 {
+    margin-top: 40px;
+}
+
+.custom-navbar-btn {
+    background-color: #277DA1;
+    border: 2px solid #DDFFD9;
+    color: #DDFFD9;
+    font-weight: bold;
+    text-shadow: 0 0 1px black;
+}
+.custom-navbar-btn:hover {
+    background-color: #DDFFD9;
+    border: 2px solid #277DA1;
+    color: #277DA1;
+    font-weight: bold;
+    text-shadow: 0 0 1px black;
+}
+
+.custom-navbar {
+    background-color: #DDFFD9;
+}
+
+.custom-offcanvas {
+    background-color: #f8ba4f;
+    border: none;
+}
+
+.hero-main-text {
+    font-size: 120px;
+}
+
+#my {
+    background-color: #DDFFD9;
+    padding: 8px 15px 8px 15px;
+    border-radius: 25%;
+}
+
+.custom-offcanvas-menu-options h4 {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin: 40px 0 5px 0;
+    text-shadow: 0 0 2px black;
+}
+
+.custom-dashboard-option {
+    background-color: #277DA1;
+    border: 2px solid #277DA1;
+    width: 380px;
+    display: flex;
+    justify-content: center;
+}
+.custom-dashboard-option:hover {
+    background-color: #143e50;
+    color: white;
+    border: 2px solid #143e50;
+}
+
+.custom-dashboard-option a {
+    color: white;
+    font-weight: bold;
+}

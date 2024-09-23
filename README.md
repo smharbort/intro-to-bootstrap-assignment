@@ -1,1 +1,0 @@
-I am really shooting for the valedictorian spot for this PerScholas course, despite some of the impressive coding backgrounds of some of my peers. I hope that I can stay on the grind and rise to the occasion.
